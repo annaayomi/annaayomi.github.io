@@ -1,3 +1,9 @@
+---
+theme: minimal
+---
+
+
+
 # annaayomi.github.io
 # 👋 Hello, I'm Anna Ayorinde
 Welcome to my portfolio.
